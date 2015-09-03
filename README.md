@@ -8,6 +8,8 @@ Also it includes tag highlighting. Future updates include suggestion and css/js 
 
 First thing to do is to download the file from here, Github! If you just want to use this the only important file is the 
 <b>.crx</b> file. Open chrome and go to settings and then the extensions page. The url should be something like Chrome://Extensions. 
+
+<br>
 Now drag the .crx file into that page and drop it. The page should then ask you if you want to install the extension. 
 Click yes! From there you should be good to go. Make sure that the extension has permission to access your URL. The only reason
 it does this is because it looks for the iGEM URL to then act! Good luck and feel free to tweet, message, or email!
