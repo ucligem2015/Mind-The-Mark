@@ -2,7 +2,7 @@
   "name": "Mind The Mark",
   "description": "Turns the basic wiki text input into a real code editor!",
   "manifest_version": 2,
-  "version" : "0.5",
+  "version" : "2",
   "icons":{ "16": "icon.png",
            "48": "icon.png",
           "128": "icon.png" },

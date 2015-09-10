@@ -12976,7 +12976,7 @@ CodeMirror.defineMIME("text/vbscript", "vbscript");
 		htmlMode: true,
 		matchTags: {bothTags: true},
 		//extraKeys: {"Ctrl": "autocomplete"},
-		extraKeys: {"Ctrl-F": "findPersistent"},
+		extraKeys: {"Ctrl-F": "findPersistent","Ctrl-space":"autocomplete"},
         value: document.documentElement.innerHTML
 	  });
 	    
