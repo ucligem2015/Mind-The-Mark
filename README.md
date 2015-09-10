@@ -1,6 +1,7 @@
 # Mind-The-Mark
 
 Licensed under a full MIT License
+Chrome Store: https://chrome.google.com/webstore/detail/mind-the-mark/jkagocihmkabhekcmdgiloihalnoliai?authuser=1
 
 Our sublime text editor. A repository for the UCL iGEM 2015 tool that optimizes the wiki text editor.
 This is a Google Chrome extension that takes the bland text editor optimizes into a code editor with markup color.
